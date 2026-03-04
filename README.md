@@ -57,7 +57,7 @@ xdg-open index.html    # Linux
 2. Go to your repo → **Settings** → **Pages**
 3. Under *Source*, select `main` branch and `/ (root)` folder
 4. Click **Save** — your site will be live in ~1 minute at:
-   `https://<your-username>.github.io/life-compass/`
+   `https://nandd11.github.io/life-compass/`
 
 ---
 
